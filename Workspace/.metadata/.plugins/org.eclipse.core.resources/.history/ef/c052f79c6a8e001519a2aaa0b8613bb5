@@ -26,6 +26,6 @@ public class Player {
 	
 	public void takeDamage(){
 		System.out.println("OUCH!");
+	{
 	}
-
 }
