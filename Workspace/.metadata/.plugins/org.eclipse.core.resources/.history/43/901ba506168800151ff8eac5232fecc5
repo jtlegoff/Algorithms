@@ -1,0 +1,21 @@
+package Excercise7_1;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		IntBST mytree = new IntBST();
+		
+		mytree.insert(13);
+		mytree.insert(10);
+		mytree.insert(2);
+		mytree.insert(12);
+		mytree.insert(25);
+		mytree.insert(20);
+		mytree.insert(31);
+		mytree.insert(29);
+		
+		mytree.breadthFirst();
+	}
+
+}

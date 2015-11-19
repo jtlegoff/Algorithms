@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;Week_7/src/Bonus&apos;&#x0D;&#x0A;- Original project: &apos;Week_7&apos;&#x0D;&#x0A;- Destination element: &apos;Week_7/src/Bonus&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Excercise7_1.Queue.java&#x0D;&#x0A;     Excercise7_1.IntBSTNode.java&#x0D;&#x0A;     Excercise7_1.IntBST.java&#x0D;&#x0A;     Excercise7_1.Driver.java" description="Copy compilation units" destination="/src&lt;Bonus" element1="/src&lt;Excercise7_1{Queue.java" element2="/src&lt;Excercise7_1{IntBSTNode.java" element3="/src&lt;Excercise7_1{IntBST.java" element4="/src&lt;Excercise7_1{Driver.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1447210485094" units="4" version="1.0"/>
+</session>
