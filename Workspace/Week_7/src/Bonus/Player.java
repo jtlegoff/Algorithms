@@ -24,4 +24,8 @@ public class Player {
 		System.out.println("ATTACK!");
 	}
 	
+	public void takeDamage(){
+		System.out.println("OUCH!");
+	{
+	}
 }
