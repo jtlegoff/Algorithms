@@ -20,8 +20,4 @@ public class Player {
 		this.level = level;
 	}
 	
-	public void attack(){
-		System.out.println("ATTACK!");
-	}
-	
 }
